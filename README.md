@@ -56,13 +56,13 @@ Explored survival patterns using the following plots:
 > Below are some screenshots of the analysis done in the notebook:
 
 ### 🎨 Survival by Gender
-![Survival by Gender](screenshorts/gender_servival.png)
+![Survival by Gender](screenshorts/gender_survival.png)
 
 ### 📈 Age Distribution by Survival
-![Age Distribution](screenshots/age_survival.png)
+![Age Distribution](screenshorts/age_survival.png)
 
 ### 🧱 Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation.png)
+![Correlation Heatmap](screenshorts/correlation.png)
 
 
 ---
