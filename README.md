@@ -56,7 +56,7 @@ Explored survival patterns using the following plots:
 > Below are some screenshots of the analysis done in the notebook:
 
 ### 🎨 Survival by Gender
-![Survival by Gender](screenshots/gender_survival.png)
+![Survival by Gender](screenshorts/gender_servival.png)
 
 ### 📈 Age Distribution by Survival
 ![Age Distribution](screenshots/age_survival.png)
